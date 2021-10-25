@@ -5,6 +5,8 @@
 The player will have to find the escape route between puzzles and riddles. But he has to do it quickly, before the strange creature finds him.
 In each level, the player impersonate different characters in different areas of the house. Can the player brings them all to safety?
 
+![alt-text](Screenshots/horror0.png)
+
 ![alt-text](Screenshots/horror1.png)
 
 ![alt-text](Screenshots/horror2.png)
